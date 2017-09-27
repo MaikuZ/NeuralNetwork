@@ -39,7 +39,7 @@ network.propagate(phi);
 
 ```
 
-main.cpp was created to show the abilities of these classes as well as to test it. It is a neural network that is first created, then taught using 90% of the digits in [data0,...,data9] files and then tested using the rest 10% of the digits and at the end the accuracy of the network is displayed. Typically it's about 86% of accuracy as it depends on how well the initial weights were chosen(which is random).
+main.cpp was created to show the capabilities of these classes as well as to test it. It is a neural network that is first created, then taught using 90% of the digits in [data0,...,data9] files and then tested using the rest 10% of the digits and at the end the accuracy of the network is displayed. Typically it's about 86% of accuracy as it depends on how well the initial weights were chosen(which is random).
 
 An example of the output of main.cpp
 
